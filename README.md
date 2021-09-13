@@ -20,4 +20,6 @@ A página seguinte é referente ao programa de parceiros, nela contém as inform
 
 A interface estará disponível em **assets/layout** e as imagens em **assets/img**
 
+Somente a interface Desktop está disponível nos arquivos, porém desejamos que você desenvolva uma versãp mobile também. A ideia é ver como você pensa ao adaptar a interface para dispositivos móveis.
+
 Desejamos um ótimo teste!
